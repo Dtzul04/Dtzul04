@@ -6,7 +6,7 @@ I bridge the gap between building high-performance web applications and extracti
 ---
 
 ### 🛠 My Tech Stack
-- **Languages:** `Python` (Pandas, Scikit-Learn), `SQL` (MySQL), `JavaScript`, `Java`, `PHP`
+- **Languages:** `Python`, `SQL`, `JavaScript`, `Java`,
 - **Web Development:** HTML5, CSS3, Flask, Tailwind CSS, Bootstrap
 - **Data & BI:** Advanced Excel (Pivot Tables, Slicers), Tableau (Learning), Google Analytics
 - **Dev Tools:** Git/GitHub, Docker, Linux, VS Code, API Integration
