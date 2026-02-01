@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Daniel Tzul 👋 
 
-<!--
-**Dtzul04/Dtzul04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web Developer & Aspiring Digital Analyst
+I bridge the gap between building high-performance web applications and extracting actionable data insights. Currently an AAS Web Development student at **Dallas College** (3.7 GPA) with a focus on **Python, SQL, and Web Analytics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+- **Languages:** `Python` (Pandas, Scikit-Learn), `SQL` (MySQL), `JavaScript`, `Java`, `PHP`
+- **Web Development:** HTML5, CSS3, Flask, Tailwind CSS, Bootstrap
+- **Data & BI:** Advanced Excel (Pivot Tables, Slicers), Tableau (Learning), Google Analytics
+- **Dev Tools:** Git/GitHub, Docker, Linux, VS Code, API Integration
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/dtzul04) | dtzul8@gmail.com
+
+*"Turning raw data into digital experiences."*
+
+
