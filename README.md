@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Tzul 👋 
 
-### 🚀 Web Developer & Aspiring Digital Analyst
+### 🚀 Web Developer | Webmaster | Digital Analyst
 I bridge the gap between building high-performance web applications and extracting actionable data insights. Currently an AAS Web Development student at **Dallas College** (3.7 GPA) with a focus on **Python, SQL, and Web Analytics**.
 
 ---
