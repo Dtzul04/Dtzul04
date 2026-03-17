@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Tzul 👋
 ### Web Developer | Digital Analyst | AI Enthusiast 
 
-I am a detail-oriented **Web Development student** at **Dallas College** with a **3.6+ GPA**. I specialize in building data-driven web applications and modern user interfaces that bridge the gap between complex data and actionable insights
+I am a detail-oriented **Web Development student** at **Dallas College** with a **3.7 GPA**. I specialize in building data-driven web applications and modern user interfaces that bridge the gap between complex data and actionable insights
 
 ---
 
