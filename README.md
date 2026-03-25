@@ -29,7 +29,6 @@ I am a detail-oriented **Web Development student** at **Dallas College** with a 
 - **A.A.S. in Web Development** | Dallas College (Expected December 2026)
 - **Web Development Certification** | Dallas College (Expected Summer 2026)
 - **Provost's Honors Recognition** | 3.6+ GPA 
-- **Core Skills: Data Analyst** | IBM SkillsBuild (In Progress)
 
 ---
 
