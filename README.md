@@ -1,5 +1,5 @@
 # Hi, I'm Daniel Tzul 👋
-### Web Developer | Digital Analyst | AI Enthusiast 
+### Web Developer | Webmaster | AI Enthusiast | Website Development Intern @ Amerimax for Mobility
 
 I am a detail-oriented **Web Development student** at **Dallas College** with a **3.7 GPA**. I specialize in building data-driven web applications and modern user interfaces that bridge the gap between complex data and actionable insights
 
