@@ -15,7 +15,7 @@ I am a detail-oriented developer who focuses on building clean, AI-integrated we
 
 ## 🛠 Featured Projects
 
-### [Flolytics — AI Financial Assistant](ttps://github.com/Dtzul04/flolytics)
+### [Flolytics — AI Financial Assistant](https://github.com/Dtzul04/flolytics)
 * **Financial Intelligence:** Developed an interactive chat assistant with **FastAPI** and **Groq AI** to help users manage money and financial goals.
 * **Cloud Infrastructure:** Managed secure hosting and deployment on **Render** using **Uvicorn** and environment variables for server stability.
 
