@@ -6,7 +6,7 @@ I am a detail-oriented developer who focuses on building clean, AI-integrated we
 ---
 
 ## 🚀 Technical Skills
-- **Languages:** Python (Pandas, Scikit-Learn), JavaScript (ES6+), SQL (MySQL), Java, and PHP. 
+- **Languages:** Python (Pandas, Scikit-Learn), JavaScript (ES6+), SQL (MySQL), and PHP. 
 - **Web Frameworks & UI:** FastAPI, Flask, React, Tailwind CSS, Alpine.js, and Bootstrap.
 - **Tools & Workflow:** Git/GitHub, Docker, Command Line (Bash), and Linux. 
 - **Specializations:** UI/UX Auditing, API Integration, Predictive Analytics, and Technical Writing. 
