@@ -1,4 +1,4 @@
-# print("Hello World! I'm Daniel Tzul 👋") 
+# Hello World! I'm Daniel Tzul 👋 
 ### Full-Stack Developer | Website Development Intern @ Amerimax for Mobility
 
 I am a detail-oriented developer who focuses on building clean, AI-integrated web solutions. I specialize in bridging the gap between complex backend logic and professional UI/UX design.
