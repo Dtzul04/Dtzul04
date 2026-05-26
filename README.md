@@ -20,9 +20,10 @@ I am a detail-oriented developer who focuses on building clean, AI-integrated we
 * **Financial Intelligence:** Developed an interactive chat assistant with **FastAPI** and **Groq AI** to help users manage money and financial goals.
 * **Cloud Infrastructure:** Managed secure hosting and deployment on **Render** using **Uvicorn** and environment variables for server stability.
 
-### [AI-Squad — AI Resume Helper](https://github.com/Dtzul04/AI-Squad)
-* **AI Resume Review:** Developed a web application using **Python (Flask)** and **Groq API** to provide instant, professional career feedback.
-* **Interactive UI:** Engineered a responsive, real-time interface with **Tailwind CSS** and **Alpine.js** for a high-end, seamless user experience.
+### [Daniel Tzul — Developer Portfolio](https://github.com/Dtzul04/my-portfolio)
+* **Frontend Architecture:** Built a fast and responsive personal website using **React**, **Vite**, **JavaScript**, and **CSS**.
+* **Project Showcase:** Designed a centralized hub to highlight my full-stack applications, including Flolytics, AI-Squad, and Kurbot.
+* **Live Demo:** Check it out at [daniel-tzul-portfolio.vercel.app](https://daniel-tzul-portfolio.vercel.app/)
 
 ---
 
