@@ -7,9 +7,9 @@ I am a detail-oriented developer who focuses on building clean, AI-integrated we
 
 ## 🚀 Technical Skills
 - **Core Development:** : HTML5, CSS3, JavaScript (ES6+), Python, SQL (MySQL), TypeScript
-- **Web Frameworks & UI:** React, Tailwind CSS, Alpine.js
-- **Backend & APIs:** FastAPI, Flask, Groq API, REST APIs, Gemini AI
-- **Tools & Workflow:** Git, GitHub, VS Code, Bash, Render, Vercel
+- **Web Frameworks & UI:** React, Express, Tailwind CSS
+- **Backend & APIs:** Node.js,REST APIs, Groq API, Gemini AI
+- **Tools & Workflow:** Git, GitHub, VS Code, Cursor, Bash, Render, Vercel
 - **Professional:** UI/UX Auditing, Technical Writing
 
 ---
