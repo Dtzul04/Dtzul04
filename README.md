@@ -14,21 +14,6 @@ I am a detail-oriented developer who focuses on building clean, web solutions. I
 
 ---
 
-## 🛠 Featured Projects
-
-### [Daniel Tzul — Developer Portfolio](https://github.com/Dtzul04/my-portfolio)
-* **Frontend Architecture:** Built a fast and responsive personal website using **React**, **Vite**, **JavaScript**, and **CSS**.
-* **Project Showcase:** Designed a centralized hub to highlight my full-stack applications, including Flolytics, AI-Squad, and Kurbot.
-* **Live Demo:** Check it out at [daniel-tzul-portfolio.vercel.app](https://daniel-tzul-portfolio.vercel.app/)
-
-### [Flolytics — AI Financial Assistant](https://github.com/Dtzul04/flolytics)
-* **Financial Intelligence:** Developed an interactive chat assistant with **FastAPI** and **Groq AI** to help users manage money and financial goals.
-* **Cloud Infrastructure:** Managed secure hosting and deployment on **Render** using **Uvicorn** and environment variables for server stability.
-* **Live Demo:** Check it out at [flolytics-2025.onrender.com](https://flolytics-2025.onrender.com/)
-
-
----
-
 ## 🎓 Education & Certifications
 - **A.A.S. in Web Development** | Dallas College (Expected Dec 2026)
 - **Web Developer Certificate** | Dallas College (Expected May 2026)
