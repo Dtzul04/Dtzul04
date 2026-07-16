@@ -16,7 +16,7 @@ I am a detail-oriented developer who focuses on building clean, web solutions. I
 
 ## 🎓 Education & Certifications
 - **A.A.S. in Web Development** | Dallas College (Expected Dec 2026)
-- **Web Developer Certificate** | Dallas College (Expected May 2026)
+- **Web Developer Certificate** | Dallas College (Expected July 2026)
 - **3.7 GPA** | Provost’s Honor Recognition (2025)
 
 ---
