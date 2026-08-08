@@ -6,7 +6,7 @@ I am a detail-oriented developer who focuses on building clean, web solutions. I
 ---
 
 ## 🚀 Technical Skills
-- **Core Development:** : HTML5, CSS3, JavaScript (ES6+), SQL, TypeScript
+- **Core Development:** : HTML5, CSS3, JavaScript (ES6+), SQL, TypeScript, Python
 - **Web Frameworks & UI:** React.js, Express.js , Tailwind CSS, Vite
 - **Backend & APIs:** Node.js, REST APIs
 - **Tools & Workflow:** Git, GitHub, VS Code, Cursor, Bash, Render, Vercel
