@@ -11,7 +11,6 @@ Graduating December 2026 · Based in Dallas, TX · Open to work
 |---------|-------------|-------|------|
 | **GuideBooks** | Developer reference tool with quiz and roadmap | Next.js, TypeScript, Tailwind | [Live](https://guide-books.vercel.app/) |
 | **Jobify** | AI-powered job finder with Gemini summaries | React, Node.js, Gemini API | [Live](https://jobify-jade.vercel.app/) |
-| **Magnifit** | Full-stack workout tracker with CRUD | React, TypeScript, PostgreSQL | [Live](https://magnifit.vercel.app/) |
 | **FinderDallas** | Community resource finder for Dallas | React, TypeScript, Tailwind | [Live](https://finder-dallas.vercel.app/) |
 
 ---
