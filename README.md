@@ -12,6 +12,7 @@ Graduating December 2026 · Based in Dallas, TX · Open to work
 | **GuideBooks** | Developer reference tool with quiz and roadmap | Next.js, TypeScript, Tailwind | [Live](https://guide-books.vercel.app/) |
 | **Jobify** | AI-powered job finder with Gemini summaries | React, Node.js, Gemini API | [Live](https://jobify-jade.vercel.app/) |
 | **FinderDallas** | Community resource finder for Dallas | Next.js, TypeScript, Tailwind | [Live](https://finder-dallas.vercel.app/) |
+| **Toolglass** | Browser-based toolkit with 41 utilities including text, image, and JSON tools | TypeScript, Vite, PWA, Browser APIs | [Repo](https://github.com/Dtzul04/toolglass) |
 
 ---
 
