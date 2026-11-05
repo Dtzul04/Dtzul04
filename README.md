@@ -20,7 +20,7 @@ Graduating December 2026 · Based in Dallas, TX · Open to work
 | **FinderDallas** | Community resource finder for Dallas with CI pipeline and typed API contract | React, TypeScript, Vite, Vercel Serverless | [Live](https://finder-dallas.vercel.app/) |
 | **Jobify** | Job finder with AI-generated summaries of real listings; API keys secured server-side | React, Node.js, Gemini API, JSearch API | [Live](https://jobify-jade.vercel.app/) |
 | **GuideBooks** | Developer reference platform with reference library, randomized quiz, and learning roadmap | Next.js, TypeScript, Tailwind | [Live](https://guide-books.vercel.app/) |
-| **Stivos** | Studio class booking system *(in progress)* | Python | [Repo]([Stivos repo URL]) |
+| **Stivos** | Studio class booking system *(in progress)* | Python |
 
 ---
 
